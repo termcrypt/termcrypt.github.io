@@ -21,8 +21,8 @@ logo: "/images/logo.png"
 baseurl: ""
 domain: "termcrypt.github.io"
 url: "https://termcrypt.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+#twitter_username: jekyllrb
+github_username:  termcrypt
 
 aux_links:
   "termcrypt on github":
