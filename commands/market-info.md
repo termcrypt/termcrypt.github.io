@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Market Information
+title: Market Commands
 parent: Commands
 permalink: /commands/market-info
 ---
 
-## Market Information Commands
+## Market Commands
 Termcrypt has many different market info commands that get data from exchange apis and then display the info to the user.
 
 When making queries, there is a slight delay, and that is the REST request to the exchange API.
