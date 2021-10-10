@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FreeTube
+title: Market Information Commands
 parent: Commands
 permalink: /commands/market-info
 ---
