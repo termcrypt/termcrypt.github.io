@@ -23,6 +23,26 @@ url: "https://termcrypt.github.io" # the base hostname & protocol for your site,
 twitter_username: jekyllrb
 github_username:  jekyll
 
+aux_links:
+  "termcrypt on github":
+    - "https://github.com/termcrypt/termcrypt"
+  "donate":
+    - "https://termcrypt.github.io/donate"
+
+footer_content: "Distributed under the <a href=\"https://github.com/termcrypt/termcrypt.github.io/blob/master/LICENSE\">AGPL3+ license.</a>"
+
+# Footer "Edit this page on GitHub" link text
+gh_edit_link: true # show or hide edit this page link
+gh_edit_link_text: "Edit this page on GitHub."
+gh_edit_repository: "https://github.com/termcrypt/termcrypt.github.io" # the github URL for your repo
+gh_edit_branch: "master" # the branch that your docs is served from
+# gh_edit_source: docs # the source that your files originate from
+gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
 # Build settings
 markdown: kramdown
 remote_theme: pmarsceill/just-the-docs
