@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Entry Order Types
-parent: Commands
-permalink: /commands/entry-order-types
+parent: Orders
+permalink: /orders/entry-order-types
 ---
 
 ## Entry Order Types
