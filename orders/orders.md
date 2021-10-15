@@ -28,16 +28,16 @@ The entry is a more complicated parameter. The entry parameter accepts either ty
 ### Confirmation
 Look over the parameters and confirm that they are okay. Because termcrypt is in early development, is it better to be sure about the order quantity.
 
-#### Order Size
+### Order Size
 This field shows the order size that the trade will have, calculated from your risk %.
 
-#### SL-TP Ratio
+### SL-TP Ratio
 This field will show you the ratio between the entry and stoploss, compared to the entry and take-profit. This is useful for knowing if trades are favourable / if you want to proceed with them on second thought.
 
-#### % Of Sub Liquidity
+### % Of Sub Liquidity
 This field shows you the percentage of the subaccount that will be used if the trade proceeds.
 
-#### Entry Fees
+### Entry Fees
 This field gives you the predicted fees in terms of the asset and subaccount balance for your chosen ordertype. This does not include order exit fees however.
 
 ### Stoploss Type
