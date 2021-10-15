@@ -6,9 +6,7 @@ permalink: /commands/market-info
 ---
 
 ## Market Commands
-Termcrypt has many different market info commands that get data from exchange apis and then display the info to the user.
-
-When making queries, there is a slight delay, and that is the REST request to the exchange API.
+These are the available market-based commands that termcrypt has currently.
 
 ### price | p
 Get the latest prices of the current market.
