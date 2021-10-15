@@ -2,7 +2,7 @@
 layout: default
 title: Project Structure
 parent: About
-permalink: /commands/project-structure
+permalink: /about/project-structure
 ---
 
 ## Project Structure
