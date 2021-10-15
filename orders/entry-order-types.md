@@ -20,3 +20,5 @@ This order type opens a market order to open an almost guaranteed-fill order for
 
 ### ob (orderbook)
 The order book entry type opens a limit order with your specified orderbook position. If the order crosses the book, it will retry the order up to 10 times. The order has post-only enabled to make sure you get the right fees.
+
+The `Orderbook Pos` parameter takes a number with its' shown range. `0` is the closest to the other side of the book. If you want to view the orderbook, use `ob`.

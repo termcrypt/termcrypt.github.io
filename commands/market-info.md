@@ -18,3 +18,6 @@ Search all market pairs for your query. An example is searching for `bat` and it
 
 ### pair
 Change termcrypt's current pair to your input. This command automatically detects if the pair is a future and checks for it with the future formatting (`-`) rather than the spot formatting (`/`). This command does not support multiple dash markets like: `BTC-MOVE-2022Q1`.
+
+### orderbook | ob
+Get a display of the current orderbook. It shows both bids and asks for the current pair with a depth of 10.
