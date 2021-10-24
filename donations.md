@@ -7,7 +7,7 @@ permalink: /donate/
 
 We accept any amount of monero for donations and we highly appreciate your support. We use donations for investments into the project and for general support of developers.
 
-<img src="images/xmr_qr.png" height="250"/>
+<img src="https://raw.githubusercontent.com/termcrypt/termcrypt.github.io/master/images/xmr_qr.png" height="250"/>
 <br><br>
 Monero Address
 <br><br>
